@@ -120,7 +120,7 @@ green_palette_base <- c("#00441B", "#238B45", "#A1D99B")  # green palette
 
 
 # Choose theme: "Blue" (paper) or "Green" (presentation)
-selected_color_theme <- "Green"  # <-- Just change this line!
+selected_color_theme <- "Blue"  # <-- Just change this line!
 
 subfolder_name <- "wind_solar_proj_2022"
 theme_subdir_name <- switch(
